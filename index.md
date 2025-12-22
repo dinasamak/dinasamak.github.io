@@ -80,11 +80,11 @@ Alexandria University — 2017
 
 ## 📚 Publications
 
-- **Aly, Karim, Dina Samak, and Gianluigi Rozza. "Digital Twins for Predictive Maintenance in Industry: A Statistical and Deep Learning-Based Approach." **International Conference on Emerging Technologies in Computational Science for Industry, Sustainability and Innovation. Cham: Springer Nature Switzerland, 2023.
+- Aly, Karim, Dina Samak, and Gianluigi Rozza. "Digital Twins for Predictive Maintenance in Industry: A Statistical and Deep Learning-Based Approach." **International Conference on Emerging Technologies in Computational Science for Industry, Sustainability and Innovation. Cham: Springer Nature Switzerland, 2023.
 
   
-- **Abdullah, Kareem, et al. "A machine learning-based technique for the classification of indoor/outdoor cellular network clients." **2020 IEEE 17th Annual Consumer Communications & Networking Conference (CCNC). IEEE, 2020.
-- **Samak, Dina, et al. "Spectrometer as an ubiquitous sensor for IoT applications targeting food quality."** 2019 IEEE/ACS 16th International Conference on Computer Systems and Applications (AICCSA). IEEE, 2019.
+- Abdullah, Kareem, et al. "A machine learning-based technique for the classification of indoor/outdoor cellular network clients." **2020 IEEE 17th Annual Consumer Communications & Networking Conference (CCNC). IEEE, 2020.
+- Samak, Dina, et al. "Spectrometer as an ubiquitous sensor for IoT applications targeting food quality."** 2019 IEEE/ACS 16th International Conference on Computer Systems and Applications (AICCSA). IEEE, 2019.
 
 ---
 
