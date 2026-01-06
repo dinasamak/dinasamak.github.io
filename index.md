@@ -31,7 +31,7 @@ This portfolio is intentionally **project-focused rather than CV-style**. It bri
 
 ## Highlights
 
-* Data Scientist / ML Engineer with **5+ years of experience** across academic research and industry.
+* Data Scientist / ML Engineer with **4+ years of experience** across academic research and industry.
 * Strong background in **machine learning, deep learning, and statistical modeling**, with applications in time-series forecasting, anomaly detection, NLP, geospatial analytics, and signal processing.
 * Extensive **telecom and IoT experience**, delivering production-ready solutions with measurable business impact.
 * Published researcher with **IEEE conference papers** and a **Springer book chapter (2025)**.
