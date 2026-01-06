@@ -1,105 +1,224 @@
 # Dina Samak
-### Data Scientist | Machine Learning Engineer
 
-📍 The Hague, Netherlands  
-📧 dinasamak93@gmail.com · [LinkedIn](https://linkedin.com/in/dinasamak) · [GitHub](https://github.com/dinasamak)
+**Data Scientist | Machine Learning Engineer**
 
----
+Welcome to my portfolio. This space is a comprehensive view of my academic and industry work in **data science, machine learning, and applied analytics**, with a strong focus on real-world impact. The projects collected here span telecom, IoT, predictive maintenance, time-series forecasting, NLP, and signal processing, and reflect both depth of technical work and consistency of delivery.
 
-## 👋 About Me
+This portfolio is intentionally **project-focused rather than CV-style**. It brings together industry projects, research collaborations, and academic work, with links to publications, code, and extended documentation where available.
 
-I am a **Data Scientist and Machine Learning Engineer** with **4+ years of experience** delivering end-to-end ML solutions across **telecom, IoT, and predictive maintenance**.
-
-My work focuses on building **production-ready machine learning systems** — from data pipelines and real-time streaming to model deployment and monitoring — with **measurable business impact**. I combine strong engineering foundations with applied research experience, including **peer-reviewed publications** and a **Springer book chapter (2025)**.
-
-I recently relocated to **The Hague, Netherlands**, am **eligible to work**, and currently seeking **Data Scientist / ML Engineer roles**.
+📍 The Hague, Netherlands
+📧 [dinasamak93@gmail.com](mailto:dinasamak93@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/dinasamak) · [GitHub](https://github.com/dinasamak) · [Google Scholar](https://scholar.google.com/citations?user=5MMWNyYAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0007-8897-7076)
 
 ---
 
-## 🧠 Core Expertise
+## Portfolio Overview
 
-- **Machine Learning & AI**: Regression, classification, anomaly detection, forecasting, NLP, RAG, fine-tuning
-- **Time-Series & Predictive Analytics**: Forecasting, anomaly detection, predictive maintenance, digital twins
-- **Data Engineering & MLOps**: Kafka, Docker, CI/CD, ETL pipelines, real-time streaming, model deployment
-- **Tools & Frameworks**: Python, TensorFlow, PyTorch, Scikit-learn, PySpark, SQL, AWS, PowerBI, Tableau
-- **Domains**: Telecom, IoT, sensor data, industrial analytics
+* [Highlights](#highlights)
+* [Industry Projects](#industry-projects)
 
----
-
-## 💼 Selected Industry Experience
-
-### Data Scientist — *Eventum Solutions (Telecom)*  
-**2019 – 2021**
-
-- Designed a **constrained graph-clustering solution** to optimize Vodafone Egypt’s cell tower configurations, improving network efficiency by **62%**.
-- Built **real-time forecasting and anomaly detection pipelines** for univariate and multivariate time-series data using **Python, TensorFlow, PySpark, and Kafka**.
-- Automated **ML benchmarking and monitoring dashboards** using PowerBI, Kibana, and Elasticsearch.
-- Co-authored a **published research paper** with Vodafone Egypt and AUC on cellular user classification.
-- Mentored junior data scientists on model optimization and deployment best practices.
+  * [Predictive Maintenance for Digital Twins](#predictive-maintenance-for-digital-twins)
+  * [Time-Series Forecasting & Anomaly Detection](#time-series-forecasting--anomaly-detection)
+  * [Location Area Codes Clustering of Mobile Sites](#location-area-codes-clustering-of-mobile-sites-telecom)
+  * [Indoor / Outdoor Mobile User Classification](#indoor--outdoor-mobile-user-classification-3g--4g)
+* [Research Assistant Projects](#research-assistant-projects)
+* [Master’s Projects](#masters-projects)
+* [Undergraduate Projects](#undergraduate-projects-selected)
+* [Tools & Technologies](#tools--technologies)
+* [About Me](#about-me)
 
 ---
 
-### Research Assistant & Teaching Assistant — *Alexandria University*  
-**2017 – 2019**
+## Highlights
 
-- Designed and deployed an **MLOps workflow** for **NIR spectroscopy–based milk quality prediction**, including a real-time **Android IoT application**.
-- Built **EEG-based cognitive profiling models** using signal processing, feature extraction, and classification techniques.
-- Taught undergraduate courses in **AI, Pattern Recognition, and Discrete Mathematics**.
+* Data Scientist / ML Engineer with **5+ years of experience** across academic research and industry.
+* Strong background in **machine learning, deep learning, and statistical modeling**, with applications in time-series forecasting, anomaly detection, NLP, geospatial analytics, and signal processing.
+* Extensive **telecom and IoT experience**, delivering production-ready solutions with measurable business impact.
+* Published researcher with **IEEE conference papers** and a **Springer book chapter (2025)**.
+* Experienced mentor and instructor, with a structured and reliable approach to complex technical work.
 
 ---
 
-## 🚀 Selected Projects
+## Industry Projects
+
+### Predictive Maintenance for Digital Twins
+
+> **Focus:** Reliability, early risk detection, and data-driven operational decisions
+
+*(Suggested visual: Digital Twin architecture diagram or anomaly detection timeline)*
+
+### Predictive Maintenance for Digital Twins
+
+Analysis of multi-sensor industrial time-series data to improve operational reliability and early fault detection.
+
+* Designed forecasting pipelines using both statistical and deep learning approaches.
+* Implemented anomaly detection using:
+
+  * Statistical methods: **PCA combined with Mahalanobis Distance**
+  * Deep learning methods: **Autoencoder Neural Networks**
+* Focused on enabling predictability, early risk identification, and data-driven operational decisions.
+
+📘 *Springer LNCS Book Chapter (2025)*
+🔗 [https://link.springer.com/chapter/10.1007/978-3-031-95709-3_2](https://link.springer.com/chapter/10.1007/978-3-031-95709-3_2)
+
+---
 
 ### Time-Series Forecasting & Anomaly Detection
-- Built and evaluated statistical and deep learning models (ARIMA, LSTM, GRU, Transformers).
-- Automated model evaluation and visualization for performance benchmarking.
 
-### Telecom Network Optimization
-- Automated optimization of mobile site location area codes using **constrained graph clustering** and geospatial analysis.
-- Achieved **62% improvement** over manual optimization methods.
+> **Focus:** Predictability, benchmarking, and transparent performance evaluation
 
-### Predictive Maintenance & Digital Twins
-- Co-authored a **Springer book chapter (2025)** on predictive maintenance using statistical and deep learning approaches.
-- Applied time-series modeling and anomaly detection for industrial systems.
+*(Suggested visual: Forecast vs actual plot or model comparison dashboard)*
 
-### IoT & Sensor Analytics
-- Developed ML pipelines for **NIR spectroscopy data** to estimate milk composition (fat, protein, lactose).
-- Deployed models in real-time via mobile and IoT applications.
+### Time-Series Forecasting & Anomaly Detection
 
----
+End-to-end exploratory analysis, modeling, evaluation, and visualization of time-series data.
 
-## 🎓 Education
-
-**MSc in Computer & Systems Engineering (Machine Learning & Data Science)**  
-Alexandria University — 2023  
-
-**BSc in Computer & Systems Engineering**  
-Alexandria University — 2017  
+* Applied classical statistical models (Autoregressive models, Seasonal Decomposition).
+* Designed deep learning architectures including **LSTM, GRU, Attention mechanisms, and Transformers** for univariate and multivariate data.
+* Automated benchmarking and performance comparison across models.
+* Built visualization and monitoring dashboards using **Python libraries, Power BI, and Kibana (Elastic Stack)**.
 
 ---
 
-## 📚 Publications
+### Location Area Codes Clustering of Mobile Sites (Telecom)
 
-- Aly, Karim, Dina Samak, and Gianluigi Rozza. "Digital Twins for Predictive Maintenance in Industry: A Statistical and Deep Learning-Based Approach." International Conference on Emerging Technologies in Computational Science for Industry, Sustainability and Innovation. Cham: Springer Nature Switzerland, 2023.
+> **Focus:** Optimization, geospatial insight, and measurable business impact
 
-  
-- Abdullah, Kareem, et al. "A machine learning-based technique for the classification of indoor/outdoor cellular network clients." s2020 IEEE 17th Annual Consumer Communications & Networking Conference (CCNC). IEEE, 2020.
-- Samak, Dina, et al. "Spectrometer as an ubiquitous sensor for IoT applications targeting food quality."** 2019 IEEE/ACS 16th International Conference on Computer Systems and Applications (AICCSA). IEEE, 2019.
+*(Suggested visual: Geospatial clustering map of mobile sites)*
+
+### Location Area Codes Clustering of Mobile Sites (Telecom)
+
+Industry collaboration with **Vodafone Egypt** to optimize mobile network performance.
+
+* Automated optimization of Location Area Codes (LACs) to reduce unnecessary handovers.
+* Used **constrained graph clustering** and **geospatial analysis** techniques.
+* Achieved **62% improvement** compared to manual optimization approaches.
+
+📄 *Supporting material available in portfolio documents*
 
 ---
 
-## 🌍 Languages
+### Indoor / Outdoor Mobile User Classification (3G / 4G)
 
-- Arabic — Native  
-- English — Fluent  
-- Dutch — Basic (currently learning)  
-- French — Basic  
+> **Focus:** Feature selection, model evaluation, and applied ML in production telecom systems
+
+*(Suggested visual: Feature importance chart or classification pipeline)*
+
+### Indoor / Outdoor Mobile User Classification (3G / 4G)
+
+Joint project with **Vodafone Egypt** and **The American University in Cairo (AUC)**.
+
+* Collected and analyzed KPIs from multiple mobile network clusters under varying conditions.
+* Applied feature selection, model tuning, and supervised machine learning algorithms.
+* Resulted in a peer-reviewed publication.
+
+📘 IEEE CCNC 2020
+🔗 [https://ieeexplore.ieee.org/document/9045473](https://ieeexplore.ieee.org/document/9045473)
 
 ---
 
-## 📬 Get in Touch
 
-I’m open to **Data Scientist** and **Machine Learning Engineer** roles where I can contribute to building **scalable, production-grade ML systems**.
 
-📧 **Email**: dinasamak93@gmail.com  
-🔗 **LinkedIn**: https://linkedin.com/in/dinasamak
+## Research Assistant Projects
+
+### Measuring Milk Quality Using NIR Spectroscopy (IoT)
+
+Industry-academic collaboration with **SI-WARE Systems** and the Faculty of Engineering.
+
+* Built a scalable Python-based ML workflow for analyzing NIR spectroscopy data.
+* Developed regression models to estimate milk components (fat, lactose, protein, SNF).
+* Deployed the selected model in real time through a **Java-based Android IoT application**.
+
+📘 IEEE AICCSA 2019
+🔗 [https://ieeexplore.ieee.org/document/9035230](https://ieeexplore.ieee.org/document/9035230)
+
+---
+
+### Determining Cognitive Profiles Using EEG
+
+Collaborative research between **Egypt-Japan University of Science and Technology (E-JUST)** and **Nile University**.
+
+* Designed a MATLAB-based ML pipeline using wavelet transforms, feature extraction, and classification.
+* Focused on signal processing and pattern recognition for EEG data.
+
+---
+
+## Master’s Projects
+
+### Master’s Thesis
+
+**Evaluation of Using Deep Learning to Detect Milk Quality Using Near Infrared Spectrometer**
+
+* Explored deep learning regression models for multivariate sensor data.
+* Evaluated model performance for estimating milk component concentrations.
+* Positioned NIR spectrometers as ubiquitous IoT sensors for food quality applications.
+
+---
+
+### Natural Language Processing – Paraphrase Identification
+
+* Implemented a sentence-pair modeling approach combining:
+
+  * CNNs for feature extraction
+  * Positional encoding for structural representation
+  * Bi-directional LSTM for contextual modeling
+* Evaluated on the **Microsoft Research Paraphrase (MSRP)** dataset with competitive results.
+
+---
+
+### Pattern Recognition – Alpha Shape Optimization
+
+* Proposed an optimized method for selecting the alpha parameter in alpha-shape algorithms.
+* Improved 2D surface detection and edge reconstruction accuracy.
+* Reduced computational cost compared to brute-force approaches.
+
+🔗 [https://github.com/dinasamak/alphashape_optimization](https://github.com/dinasamak/alphashape_optimization)
+
+---
+
+### Clustering of Cancer Gene Expression
+
+* Applied clustering techniques to discover cancer sub-types across multiple gene expression datasets.
+* Performed comparative analysis of clustering algorithms, with **k-means** outperforming alternatives.
+
+---
+
+### Fuzzy Logic Control Systems
+
+* Implemented decentralized adaptive fuzzy output-feedback control for switched large-scale nonlinear systems.
+* Simulated and validated results using **MATLAB / Simulink**.
+
+---
+
+## Undergraduate Projects (Selected)
+
+*(Foundational projects demonstrating systems thinking, algorithms, and applied engineering skills.)*
+
+## Undergraduate Projects (Selected)
+
+* **BCI Graduation Project**: Mental workload assessment using frontal EEG signals and SVM classification.
+* **Reliable Data Transfer Protocol (C++)**: UDP-based client/server with Stop-and-Wait, Go-Back-N, and Selective Repeat.
+* **Circus of Plates (Java)**: GUI-based game using object-oriented design patterns.
+* **Android Blood Bank App**: User management system using SQLite and OOP principles.
+* **Maze Solver (Java)**: BFS and DFS-based automatic maze solving.
+* **PLC Projects (Ladder Logic)**: Conveyor systems, sensor-based control, and elevator automation.
+
+---
+
+## Tools & Technologies
+
+* **Programming**: Python, Java, R, C/C++, MATLAB
+* **ML & Data**: TensorFlow, PyTorch, Scikit-learn, PySpark
+* **Visualization**: Power BI, Kibana, Python visualization libraries
+* **MLOps & Cloud**: Docker, CI/CD concepts, AWS
+
+---
+
+## About Me
+
+I am passionate about building data-driven solutions that make a tangible difference. I enjoy working on complex problems, structuring experiments and pipelines carefully, and seeing ideas move from research to real-world use. My background combines academic rigor with hands-on industry delivery, particularly in large-scale and data-intensive environments such as telecom and IoT.
+
+---
+
+*This portfolio is a living document and will continue to evolve as new projects and research are added.*
+
