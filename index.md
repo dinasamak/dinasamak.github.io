@@ -4,7 +4,6 @@
 
 Welcome to my portfolio. This space is a comprehensive view of my academic and industry work in **data science, machine learning, and applied analytics**, with a strong focus on real-world impact. The projects collected here span telecom, IoT, predictive maintenance, time-series forecasting, NLP, and signal processing, and reflect both depth of technical work and consistency of delivery.
 
-This portfolio is intentionally **project-focused rather than CV-style**. It brings together industry projects, research collaborations, and academic work, with links to publications, code, and extended documentation where available.
 
 📍 The Hague, Netherlands
 📧 [dinasamak93@gmail.com](mailto:dinasamak93@gmail.com)
