@@ -34,8 +34,11 @@ This portfolio is intentionally **project-focused rather than CV-style**. It bri
 * Data Scientist / ML Engineer with **4+ years of experience** across academic research and industry.
 * Strong background in **machine learning, deep learning, and statistical modeling**, with applications in time-series forecasting, anomaly detection, NLP, geospatial analytics, and signal processing.
 * Extensive **telecom and IoT experience**, delivering production-ready solutions with measurable business impact.
-* Published researcher with **IEEE conference papers** and a **Springer book chapter (2025)**.
-* Experienced mentor and instructor, with a structured and reliable approach to complex technical work.
+* Strong focus on structured delivery, predictability, and transparency, using data to support planning, prioritization, and informed decision-making.
+
+*Proven experience turning complex technical work into clear insights and dashboards for diverse stakeholders.
+
+* Calm, reliable, and people-focused way of working, with experience mentoring others and enabling teams to deliver quality outcomes.
 
 ---
 
@@ -82,7 +85,6 @@ Industry collaboration with **Vodafone Egypt** to optimize mobile network perfor
 * Used **constrained graph clustering** and **geospatial analysis** techniques.
 * Achieved **62% improvement** compared to manual optimization approaches.
 
-📄 *Supporting material available in portfolio documents*
 
 ---
 
@@ -156,8 +158,6 @@ Collaborative research between **Egypt-Japan University of Science and Technolog
 * Improved 2D surface detection and edge reconstruction accuracy.
 * Reduced computational cost compared to brute-force approaches.
 
-🔗 [https://github.com/dinasamak/alphashape_optimization](https://github.com/dinasamak/alphashape_optimization)
-
 ---
 
 ### Clustering of Cancer Gene Expression
@@ -178,7 +178,6 @@ Collaborative research between **Egypt-Japan University of Science and Technolog
 
 *(Foundational projects demonstrating systems thinking, algorithms, and applied engineering skills.)*
 
-## Undergraduate Projects (Selected)
 
 * **BCI Graduation Project**: Mental workload assessment using frontal EEG signals and SVM classification.
 * **Reliable Data Transfer Protocol (C++)**: UDP-based client/server with Stop-and-Wait, Go-Back-N, and Selective Repeat.
@@ -200,7 +199,7 @@ Collaborative research between **Egypt-Japan University of Science and Technolog
 
 ## About Me
 
-I am passionate about building data-driven solutions that make a tangible difference. I enjoy working on complex problems, structuring experiments and pipelines carefully, and seeing ideas move from research to real-world use. My background combines academic rigor with hands-on industry delivery, particularly in large-scale and data-intensive environments such as telecom and IoT.
+I am passionate about building data-driven solutions that make a tangible difference. I enjoy working on complex problems, structuring experiments and pipelines carefully, and seeing ideas move from research to real-world use. My background combines academic experience with hands-on industry delivery, particularly in large-scale and data-intensive environments such as telecom and IoT.
 
 ---
 
