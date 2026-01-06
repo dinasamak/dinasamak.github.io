@@ -45,10 +45,6 @@ This portfolio is intentionally **project-focused rather than CV-style**. It bri
 
 > **Focus:** Reliability, early risk detection, and data-driven operational decisions
 
-*(Suggested visual: Digital Twin architecture diagram or anomaly detection timeline)*
-
-### Predictive Maintenance for Digital Twins
-
 Analysis of multi-sensor industrial time-series data to improve operational reliability and early fault detection.
 
 * Designed forecasting pipelines using both statistical and deep learning approaches.
@@ -67,10 +63,6 @@ Analysis of multi-sensor industrial time-series data to improve operational reli
 
 > **Focus:** Predictability, benchmarking, and transparent performance evaluation
 
-*(Suggested visual: Forecast vs actual plot or model comparison dashboard)*
-
-### Time-Series Forecasting & Anomaly Detection
-
 End-to-end exploratory analysis, modeling, evaluation, and visualization of time-series data.
 
 * Applied classical statistical models (Autoregressive models, Seasonal Decomposition).
@@ -83,10 +75,6 @@ End-to-end exploratory analysis, modeling, evaluation, and visualization of time
 ### Location Area Codes Clustering of Mobile Sites (Telecom)
 
 > **Focus:** Optimization, geospatial insight, and measurable business impact
-
-*(Suggested visual: Geospatial clustering map of mobile sites)*
-
-### Location Area Codes Clustering of Mobile Sites (Telecom)
 
 Industry collaboration with **Vodafone Egypt** to optimize mobile network performance.
 
@@ -101,10 +89,6 @@ Industry collaboration with **Vodafone Egypt** to optimize mobile network perfor
 ### Indoor / Outdoor Mobile User Classification (3G / 4G)
 
 > **Focus:** Feature selection, model evaluation, and applied ML in production telecom systems
-
-*(Suggested visual: Feature importance chart or classification pipeline)*
-
-### Indoor / Outdoor Mobile User Classification (3G / 4G)
 
 Joint project with **Vodafone Egypt** and **The American University in Cairo (AUC)**.
 
